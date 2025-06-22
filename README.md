@@ -1,4 +1,4 @@
-<h1 align="center">🌈 Hello, I'm Yeonsu!</h1>
+<h1 align="center"> Hello, I'm Yeonsu!</h1>
 
 <p align="center"><i>Cloud-native DevOps Learner | Focused on Infrastructure Automation
 </i></p>
