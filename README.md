@@ -1,9 +1,7 @@
 <h1 align="center">🌈 Hello, I'm Yeonsu!</h1>
-<h3 align="center">Cloud Infra Enthusiast | Kubernetes Explorer | Docker Lover</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Infra+Learner;Kubernetes+Explorer;Always+curious+🌈" alt="Typing SVG" />
-</p>
+<p align="center"><i>Cloud-native DevOps Learner | Focused on Infrastructure Automation
+</i></p>
 
 ---
 
@@ -32,14 +30,15 @@
 
 ---
 
-### 📫 How to reach me
+### 🧩 About Me
 
-<p align="center">
-  <a href="mailto:3985788@gmail.com"><img src="https://img.shields.io/badge/email-FF5F6D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yeonsu-park-890178282?"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+- 🌍 Background in global forwarding (B2B logistics)
+- 🛠 Transitioned into cloud-native infrastructure from a non-IT background
+- ☁️ Built & deployed MSA-based applications with Docker and Kubernetes
+- 📈 Working knowledge of AWS (EKS, RDS, S3, IAM), GitHub Actions, and Prometheus
+- 🎯 Strong interest in platform automation and system reliability
+- 📚 Certifications: AWS SAA, CCNA, Linux Master Level 2
 
 ---
 
-<!-- Footer -->
-<p align="center" style="font-size:12px;color:gray;">✨ Passionately learning and building ✨</p>
+<p align="center" style="font-size:12px;color:gray;">Let's connect and build something awesome 💡</p>
