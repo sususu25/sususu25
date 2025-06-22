@@ -35,8 +35,8 @@
 ### 📫 How to reach me
 
 <p align="center">
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/email-FF5F6D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:3985788@gmail.com"><img src="https://img.shields.io/badge/email-FF5F6D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yeonsu-park-890178282?"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
